@@ -1,3 +1,6 @@
+
+//let name = "Shadi";
+
 function findShip(y, x, square) {
     if (gameBoard[y][x] == 2 || gameBoard[y][x] == 3) {
         alert("Du har redan skjutit här!");
